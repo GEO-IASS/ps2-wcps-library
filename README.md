@@ -15,3 +15,7 @@ for c in (frt00007032_07_if187l)
 ```
 
 # References
+
+Viviano-Beck, C. E., et al. (2014), Revised CRISM spectral parameters and summary products based on the currently detected mineral diversity on Mars, J. Geophys. Res. Planets, 119, 1403–1431, [doi:10.1002/2014JE004627](http://dx.doi.org/10.1002/2014JE004627 ) [pdf](http://authors.library.caltech.edu/53039/1/jgre20270.pdf)
+
+
