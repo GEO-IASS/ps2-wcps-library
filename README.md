@@ -14,6 +14,15 @@ for c in (frt00007032_07_if187l)
             encode (c [((band_a - band_b) - (band_a + band_b)) * ((band_a - band_c) - (band_a + band_c)) ], “png”);
 ```
 
+# Library items 
+
+Summary products and spectral parameters in [WCPS](https://en.wikipedia.org/wiki/Web_Coverage_Processing_Service)
+
+__being populated, format of files and structure of library subject to change__
+
+* [HCP](hcp.txt)
+
+
 # References
 
 Viviano-Beck, C. E., et al. (2014), Revised CRISM spectral parameters and summary products based on the currently detected mineral diversity on Mars, J. Geophys. Res. Planets, 119, 1403–1431, [doi:10.1002/2014JE004627](http://dx.doi.org/10.1002/2014JE004627 ) [pdf](http://authors.library.caltech.edu/53039/1/jgre20270.pdf)
