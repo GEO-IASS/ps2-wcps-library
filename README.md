@@ -22,7 +22,8 @@ _being populated, format of files and structure of library subject to change_
 
 * [HCP](hcp.txt)
 * [LCP](lcp.txt)
-* [Spectral Slope](islope.txt)
+* [ISLOPE](islope.txt)
+* [BD1500](bd1500.txt)
 
 
 # References
