@@ -1,1 +1,8 @@
 
+for c in (frt00007032_07_if187l) 
+     return
+            encode (c [((0.330 - 0.105) - (0.330 + 0.105)) * ((0.330 -    0.815) - (0.330 + 0.815)) ], “png”);
+
+for c in (frt00007032_07_if187l) 
+     return
+            encode (c [((band_a - band_b) - (band_a + band_b)) * ((band_a - band_c) - (band_a + band_c)) ], “png”);
