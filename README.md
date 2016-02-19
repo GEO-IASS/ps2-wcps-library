@@ -1,6 +1,6 @@
 # es2-wcps-library
 
-Formulas for extracting compositional information with OGC WCPS queries, for hyperspectral data ingested on PlanetServer/EarthServer ([http://earthserver.eu](http://earthserver.eu)
+Formulas for extracting compositional information with OGC WCPS queries, for hyperspectral data ingested on PlanetServer/EarthServer [http://earthserver.eu](http://earthserver.eu), [http://planetserver.eu](http://planetserver.eu)
 
 ## Examples
 
