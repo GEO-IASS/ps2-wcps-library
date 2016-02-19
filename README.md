@@ -18,7 +18,7 @@ for c in (frt00007032_07_if187l)
 
 Summary products and spectral parameters in [WCPS](https://en.wikipedia.org/wiki/Web_Coverage_Processing_Service)
 
-__being populated, format of files and structure of library subject to change__
+_being populated, format of files and structure of library subject to change_
 
 * [HCP](hcp.txt)
 
