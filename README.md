@@ -21,6 +21,8 @@ Summary products and spectral parameters in [WCPS](https://en.wikipedia.org/wiki
 _being populated, format of files and structure of library subject to change_
 
 * [HCP](hcp.txt)
+* [LCP](lcp.txt)
+* [Spectral Slope](islope.txt)
 
 
 # References
