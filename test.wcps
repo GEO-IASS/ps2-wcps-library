@@ -1,0 +1,10 @@
+# COMMENT / PLEASE REMOVE
+
+let $green_band = "green"
+let $red_band = "red"
+let $coverage = "myCoverage"
+
+for c in $coverage return
+encode(
+c.$green_band / c.$red_band, "png"
+)
