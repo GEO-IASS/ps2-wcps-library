@@ -1,6 +1,6 @@
 for c in (frt00007032_07_if187l) 
      return
-            encode (c [((0.147 - 0.105) - (0.147 + 0.105)) * ((0.147 -    0.2067) - (0.147 + 0.2067)) ], “png”);
+            encode (c [((lambda0.147 - lambda0.105) - (lambda0.147 + lambda0.105)) * ((lambda0.147 -    lamda0.2067) - (lambda0.147 + lambda0.2067)) ], “png”);
 
 for c in (frt00007032_07_if187l) 
      return
